@@ -22,13 +22,16 @@ Actualmente estoy **#OpenToWork** y buscando oportunidades donde pueda aplicar m
 
 ### 🚀 Proyectos Destacados
 
-Puedes encontrar el enlace a la aplicación desplegada (Demo) y el código de mis proyectos en la sección de repositorios fijados a continuación.
+Puedes encontrar el enlace a la aplicación desplegada (Demo) y el código de mis proyectos en la sección de **repositorios fijados** a continuación.
 
-| Nombre del Proyecto | Descripción Rápida |
+| Nombre del Proyecto (Repositorio) | Descripción Rápida |
 | :--- | :--- |
-| **[Nombre de tu proyecto React más fuerte]** | Una aplicación Front-end moderna para [Describe qué hace]. |
-| **[Nombre de tu proyecto Django más fuerte]** | Plataforma de gestión Back-end para [Describe qué hace] con Django. |
-| **[Nombre de tu proyecto Java/Spring]** | Implementación de Microservicios y APIs REST utilizando Spring Boot. |
+| **MiPortafolio (React)** | Aplicación Front-end moderna construida con **React** para mostrar mis proyectos. |
+| **SportRyder (Java/Spring)** | Implementación de APIs **RESTful** y servicios con **Java y Spring Boot**. |
+| **SIMEF - Sistema de Gestión** | Sistema integral de gestión de inscripciones y exámenes, con **Python y Django**. |
+| **Tienda de Ropa** | E-commerce completo para gestión y venta de ropa, con backend en **Python/Django**. |
+| **Estacionamiento - Gestión** | **DEMO Front-end** para gestión de estacionamiento y reservas (Énfasis en lógica y UI). |
+| **La Casa de Hilos y Repuestos** | E-commerce de catálogo y carrito, con desarrollo Full-Stack en **Django**. |
 
 ---
 
@@ -36,8 +39,8 @@ Puedes encontrar el enlace a la aplicación desplegada (Demo) y el código de mi
 
 | Plataforma | Enlace |
 | :--- | :--- |
-| **Portafolio Web** | [Tu enlace de MiPortafolio] |
-| **LinkedIn** | [Tu URL de LinkedIn] |
-| **Email** | [Tu Email Profesional] |
+| **Portafolio Web** | [https://mi-port-folio-hulih7cz4-renato-manriques-projects.vercel.app] |
+| **LinkedIn** | [https://linkedin.com/in/rider-manrique] |
+| **Email Profesional** | [ridermc@gmail.com] |
 
 ---
