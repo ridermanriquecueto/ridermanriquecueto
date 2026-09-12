@@ -39,3 +39,9 @@ Mi enfoque principal es el desarrollo de arquitecturas robustas en el backend, l
 * **Email Profesional:** ridermc@gmail.com
 
 ---
+### 💡 Repositorios Destacados
+
+* **[TalentCircle (Spring Boot + IA)](https://github.com/ridermanriquecueto)**: Plataforma de monitoreo de comunidades y generación de contenido con Gemini API.
+* **[Mundo Limpieza 526 (Django)](https://github.com/ridermanriquecueto)**: E-commerce completo con catálogo dinámico y panel de administración avanzado.
+* **[SportRyder (Java / Spring Boot)](https://github.com/ridermanriquecueto)**: Arquitectura backend robusta orientada a servicios y control transaccional.
+* **[Stock & Auditoría (Flask)](https://github.com/ridermanriquecueto)**: Sistema de gestión con monitoreo de IP y logs de seguridad.
